@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d00ee55e.chunk.css",
+    "main.js": "/static/js/main.83c44507.chunk.js",
+    "main.js.map": "/static/js/main.83c44507.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fecbd22f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fecbd22f.js.map",
+    "static/js/2.ccca52a1.chunk.js": "/static/js/2.ccca52a1.chunk.js",
+    "static/js/2.ccca52a1.chunk.js.map": "/static/js/2.ccca52a1.chunk.js.map",
+    "static/js/3.7e77cb6d.chunk.js": "/static/js/3.7e77cb6d.chunk.js",
+    "static/js/3.7e77cb6d.chunk.js.map": "/static/js/3.7e77cb6d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d00ee55e.chunk.css.map": "/static/css/main.d00ee55e.chunk.css.map",
+    "static/js/2.ccca52a1.chunk.js.LICENSE.txt": "/static/js/2.ccca52a1.chunk.js.LICENSE.txt",
+    "static/media/backward.8795b794.svg": "/static/media/backward.8795b794.svg",
+    "static/media/badge-check.2fed82dd.svg": "/static/media/badge-check.2fed82dd.svg",
+    "static/media/books.4d862eaf.svg": "/static/media/books.4d862eaf.svg",
+    "static/media/expand-alt.38f26f5c.svg": "/static/media/expand-alt.38f26f5c.svg",
+    "static/media/forward.0f53205f.svg": "/static/media/forward.0f53205f.svg",
+    "static/media/heart.d9450515.svg": "/static/media/heart.d9450515.svg",
+    "static/media/home.6169b64e.svg": "/static/media/home.6169b64e.svg",
+    "static/media/list.d83a0cc0.svg": "/static/media/list.d83a0cc0.svg",
+    "static/media/pause.1d1ea0bb.svg": "/static/media/pause.1d1ea0bb.svg",
+    "static/media/play.3be8c77f.svg": "/static/media/play.3be8c77f.svg",
+    "static/media/random.cdbb378b.svg": "/static/media/random.cdbb378b.svg",
+    "static/media/repeat-alt.7eb3215c.svg": "/static/media/repeat-alt.7eb3215c.svg",
+    "static/media/search.ea7f7b94.svg": "/static/media/search.ea7f7b94.svg",
+    "static/media/speakers.7421726c.svg": "/static/media/speakers.7421726c.svg",
+    "static/media/spotify.b655471e.svg": "/static/media/spotify.b655471e.svg",
+    "static/media/volume.1101b2d0.svg": "/static/media/volume.1101b2d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fecbd22f.js",
+    "static/js/2.ccca52a1.chunk.js",
+    "static/css/main.d00ee55e.chunk.css",
+    "static/js/main.83c44507.chunk.js"
+  ]
+}
